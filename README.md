@@ -12,3 +12,4 @@ Projeto para aprendizado de DevOps
 - Helm
 - IaC Terraform/Ansible
 - Observabilidade
+- Arquitetura
