@@ -1,6 +1,6 @@
 # Projeto Mentoria 2022
 
- <img src=".images/codefc.png" width="100" height="100" />
+ <img src=".images/codefc.png" width="110" height="100" />
  
  [CODE FC Channel](https://youtube.com/codefc)
 
