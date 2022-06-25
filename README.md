@@ -1,7 +1,8 @@
 # Projeto Mentoria 2022
 
- ![CodeFC](.images/codefc.png | width=100)
- -  [CODE FC](https://youtube.com/codefc)
+ <img src=".images/codefc.png" width="100" height="100" />
+ 
+ [CODE FC Channel](https://youtube.com/codefc)
 
 Projeto para aprendizado de DevOps
 
